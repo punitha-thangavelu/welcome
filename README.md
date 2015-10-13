@@ -1,2 +1,2 @@
 # welcome
-I am checking the flow of pull and merage
+In this file i am  checking the flow
